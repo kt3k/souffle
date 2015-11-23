@@ -1,4 +1,4 @@
-# JavaScript Soufflé Style v1.0.0
+# JavaScript Soufflé Style v1.0.1
 
 > A style checker. based on eslint, similar to [standard](https://github.com/feross/standard), allows more spaces.
 
