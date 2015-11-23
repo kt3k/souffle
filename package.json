@@ -4,7 +4,7 @@
   "description": "A style checker. based on eslint, similar to standard, allows more spaces.",
   "main": "index.js",
   "bin": {
-    "souffle": "souffle.js"
+    "souffle": "bin/souffle.js"
   },
   "scripts": {
     "test": "node bin/souffle.js"
