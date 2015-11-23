@@ -1,4 +1,4 @@
-# JavaScript Soufflé Style v1.0.1
+# JavaScript Soufflé Style v1.0.1 [![Build Status](https://travis-ci.org/kt3k/souffle.svg)](https://travis-ci.org/kt3k/souffle)
 
 > A style checker. based on eslint, similar to [standard](https://github.com/feross/standard), allows more spaces.
 
