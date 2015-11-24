@@ -12,7 +12,7 @@ The above installs `souffle` command.
 
 # Rules
 
-- **4 spaces** (configurable)
+- **4 spaces** for indent (configurable)
 - **no semicolons** (configurable)
 - **allow padded block**
 - Check [feross/standard](https://github.com/feross/standard) for the rest of the rules.
