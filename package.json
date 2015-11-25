@@ -1,6 +1,6 @@
 {
   "name": "souffle-cli",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A style checker. based on eslint, similar to standard, allows more spaces.",
   "main": "index.js",
   "bin": {
