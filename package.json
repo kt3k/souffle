@@ -3,7 +3,9 @@
   "version": "2.0.1",
   "description": "A style checker. based on eslint, similar to standard, allows more spaces.",
   "main": "index.js",
-  "bin": "cli.js",
+  "bin": {
+    "souffle": "cli.js"
+  },
   "scripts": {
     "test": "echo no test"
   },
