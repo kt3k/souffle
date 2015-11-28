@@ -4,10 +4,10 @@
   "description": "A style checker. based on eslint, similar to standard, allows more spaces.",
   "main": "index.js",
   "bin": {
-    "souffle": "cli.js"
+    "souffle": "index.js"
   },
   "scripts": {
-    "test": "echo no test"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
