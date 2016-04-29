@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kt3k/souffle-cli.git"
+    "url": "git+https://github.com/kt3k/souffle.git"
   },
   "keywords": [
     "lint",
@@ -21,9 +21,9 @@
   "author": "Yoshiya Hinosawa <stibium121@gmail.com> (https://twitter.com/kt3k)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kt3k/souffle-cli/issues"
+    "url": "https://github.com/kt3k/souffle/issues"
   },
-  "homepage": "https://github.com/kt3k/souffle-cli#readme",
+  "homepage": "https://github.com/kt3k/souffle#readme",
   "cmdName": "souffle",
   "cmdOptions": {
     "eslintrc": {
