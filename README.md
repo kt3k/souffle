@@ -1,4 +1,4 @@
-# JavaScript Soufflé Style v3.1.0 [![js-souffle-style](https://img.shields.io/badge/code%20style-soufflé-brightgreen.svg)](https://github.com/kt3k/souffle)
+# JavaScript Soufflé Style v3.1.1 [![js-souffle-style](https://img.shields.io/badge/code%20style-soufflé-brightgreen.svg)](https://github.com/kt3k/souffle)
 
 > A style checker. based on eslint, similar to [standard](https://github.com/feross/standard), allows more spaces.
 
